@@ -1,4 +1,4 @@
-FROM zpaulo/java:8
+FROM zpaulo/java
 MAINTAINER José Paulo <zpaulo19@gmail.com>
 
 # Expose web port
